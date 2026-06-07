@@ -1,0 +1,9 @@
+{
+  "name": "classic-touch-ladies-salon",
+  "version": "1.0.0",
+  "private": true,
+  "description": "One-page website for Classic Touch Ladies Salon.",
+  "scripts": {
+    "start": "python -m http.server 8000"
+  }
+}
